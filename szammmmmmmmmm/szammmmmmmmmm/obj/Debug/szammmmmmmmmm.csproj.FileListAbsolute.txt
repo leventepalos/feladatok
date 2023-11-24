@@ -1,0 +1,14 @@
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\bin\Debug\szammmmmmmmmm.exe.config
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\bin\Debug\szammmmmmmmmm.exe
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\bin\Debug\szammmmmmmmmm.pdb
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.csproj.CoreCompileInputs.cache
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.exe
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.pdb
+H:\Aztali alkalmazások\Új mappa (2)\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.csproj.AssemblyReference.cache
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.csproj.AssemblyReference.cache
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.csproj.CoreCompileInputs.cache
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.exe
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\obj\Debug\szammmmmmmmmm.pdb
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\bin\Debug\szammmmmmmmmm.exe.config
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\bin\Debug\szammmmmmmmmm.exe
+C:\Users\Pálos Erika\Downloads\szammmmmmmmmm\szammmmmmmmmm\szammmmmmmmmm\bin\Debug\szammmmmmmmmm.pdb

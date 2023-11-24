@@ -1,0 +1,9 @@
+H:\Aztali alkalmazások\szokereső\szokereseő\szokereső\szokereső\obj\Debug\szokereső.csproj.AssemblyReference.cache
+H:\Aztali alkalmazások\szokereső\szokereseő\szokereső\szokereső\obj\Debug\szokereső.csproj.CoreCompileInputs.cache
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\obj\Debug\szokereső.csproj.AssemblyReference.cache
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\obj\Debug\szokereső.csproj.CoreCompileInputs.cache
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\bin\Debug\szokereső.exe.config
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\bin\Debug\szokereső.exe
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\bin\Debug\szokereső.pdb
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\obj\Debug\szokereső.exe
+C:\Users\Pálos Erika\Downloads\szokereseő\szokereseő\szokereső\szokereső\obj\Debug\szokereső.pdb
